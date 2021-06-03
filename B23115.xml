@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning the true baptism and the false by G. Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23115</idno><idno type="EEBO-CITATION">19317320</idno>
+  <idno type="VID">205491</idno>
+  <idno type="EEBO-PROQUEST">2248556319</idno>
+  
+            <idno type="STC">Wing F1776</idno>
+            <idno type="OCLC">19317320</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205491)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1670:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning the true baptism and the false by G. Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated on p. 7: The 1st of the 9th moneth, 1676.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: pages cropped at top with slight loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Baptism --  Society of Friends.</term>
+               <term type="topical_term">Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:205491:1"/>
+            <head>Concerning the True Baptism AND THE FALSE</head>
+            <byline>By <hi>G. Fox.</hi>
+            </byline>
+            <p>THIS is for all the Priests, Professors and Prophane in <hi>Christendom,</hi> that say, <hi>The Scriptures are your Rule for your Doctrine, Faith, Life and Practice;</hi> who <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se to brand the People of God, which you in scorn call <hi>Quakers,</hi> and say, <hi>That they deny the Scriptures, &amp;c. and the Ordinances of God and Christ,</hi> which is false.</p>
+            <p>But let us see, whether you do speak truly, in saying, <hi>That the Scriptures are your Rule for your Doctrine, Faith and Pra<g ref="char:EOLhyphen"/>ctice, &amp;c.</hi> and whether that which you call an Ordinance of God and Christ (which you say the <hi>Quakers do deny</hi>) be not an Ordinance, and Doctrine and Practice of your own Inventions, and not of God and Christ; neither can ye make it good by the Scriptures of the Old and New Testa<g ref="char:EOLhyphen"/>ment.</p>
+            <p>For the <hi>Bereans,</hi> you will confess, were Noble, wh<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="2" facs="tcp:205491:2"/> searched the Scriptures daily, to see if those things were so, which the Apostles preached, <hi>Acts</hi> 17.11. For the Apostle said, <hi>He believed all things which were written in the Law and the Prophets,</hi> Acts 24. And what, must not we be as no<g ref="char:EOLhyphen"/>ble as the <hi>Bereans,</hi> to search the Scriptures both of the Old and New Testament, to see if those Doctrines and Ordi<g ref="char:EOLhyphen"/>nances (as you call them) be found written and expressed in the Scriptures? and they not being found in the Scriptures of the Old and New Testament, as we shall prove hereafter, that these your Doctrines, Ordinances and Practices, are neither according to the New Testament nor the Old; then how can we follow you?</p>
+            <p>Concerning your Sprinkling of Infants, and your Fonts, and your signing them with the Sign of the Cross, and your Gossips, and God-Fathers and God-Mothers, &amp;c. These things you cannot prove in all the Scriptures of the Old and New Testament, who say, <hi>The Scriptures are your Rule for these things.</hi> But let us see if the <hi>Quakers</hi> do not own and walk ac<g ref="char:EOLhyphen"/>cording to the Scriptures more than you, who cannot make these things good by Scripture.</p>
+            <p>Genesis 5. <hi>In the day when God created</hi> Adam <hi>and</hi> Eve, <hi>he blessed them, and called their Name</hi> Adam.</p>
+            <p>So here God, that made Man and Woman, gave the Name to <hi>Adam.</hi>
+            </p>
+            <p>And you do not read, that there was any God-fathers and God-mothers then: it was not like; for he was the first Man, and <hi>Eve</hi> the first Woman.</p>
+            <p>And <hi>Adam</hi> said, <hi>This is Bone of my Bones, and Flesh of my Flesh; she shall be called Woman, because she was taken out of Man;</hi> and she became his Wife.</p>
+            <p>And again, <hi>Adam</hi> called his Wife's Name <hi>Eve,</hi> because she was the Mother of all Living.</p>
+            <p>Now prove that <hi>Adam</hi> did sprinkle his Wife with Wa<g ref="char:EOLhyphen"/>ter when he named her, or signed her with the Sign of the Cross.</p>
+            <p>And did not <hi>Adam</hi> and <hi>Eve</hi> give Names to <hi>Cain</hi> and <hi>Abel</hi> without God-Fathers and God-Mothers, and sprinkling
+<pb n="3" facs="tcp:205491:2"/> them with Water, and signing them with the sign of the Cross?</p>
+            <p>And <hi>Cain</hi> begat a Son, and called his Name <hi>Enoch;</hi> had he God-fathers and God-mothers? or did he sprinkle him with Water, or sign him with the sign of the Cross?</p>
+            <p>And <hi>Adam</hi> had another Son, and <hi>Eve</hi> called him <hi>Seth; For</hi> (said she) <hi>God hath appointed me another Son instead of</hi> Abel.</p>
+            <p>And <hi>Seth</hi> had a Son, and called his Name <hi>Enos,</hi> Gen. 4.</p>
+            <p>Now let all the Priests &amp; Professors in <hi>Christendom</hi> prove that these had God-fathers, and God-mothers, and Gossips, and that they sprinkled them with Water, and had Fonts, or signed them with the sign of the Cross; or any of them in the Old World, though they were gone after Bad Marriages and their hearts enclined to Wickedness continually; so the Wicked did not practice these things that we read of, nor them that were Good.</p>
+            <p>And <hi>Lamech</hi> begot a Son, and called him <hi>Noah;</hi> and <hi>Noah</hi> had three Sons, and called them <hi>Shem, Ham</hi> and <hi>Japhet:</hi> and then after the Flood till <hi>Abraham</hi>'s time, <hi>Gen.</hi> 11. where did ever any sprinkle their Children with Water, and sign them with the sign of the Cross, or had God-fathers and God-mo<g ref="char:EOLhyphen"/>thers, or Gossips and Fonts? prove this practice by plain Scrip<g ref="char:EOLhyphen"/>ture, who say, <hi>It is your Rule.</hi>
+            </p>
+            <p>And the Lord said to <hi>Hagar, Thou art with Child, and thou shalt call his Name</hi> Ishmael, <hi>because the Lord hath heard thy Afflictions:</hi> and <hi>Abraham</hi> called his Name <hi>Ishmael.</hi>
+            </p>
+            <p>And God said unto <hi>Abram, Thy Name shall be called</hi> A<g ref="char:EOLhyphen"/>braham; <hi>and thy Wife</hi> Sarai, <hi>shall be called</hi> Sarah, <hi>Gen.</hi> 16, 17.</p>
+            <p>And <hi>Abraham</hi> had a Son, and he called his Name <hi>Isaac.</hi>
+            </p>
+            <p>Now here you may see the Lord did give Names, and the Fa<g ref="char:EOLhyphen"/>ther and Mother did give Names to Children, without a Priest sprinkling them, or God-fathers and God-mothers, and without Fonts, or signing them with the sign of the Cross.</p>
+            <p>And <hi>Isaac</hi> had two Sons, and they called their Names <hi>Esau</hi> and <hi>Jacob.</hi>
+            </p>
+            <p>And <hi>Abraham</hi> had many Children by <hi>Keturah,</hi> Gen. 25. and you read no Scripture that there was any Priest to sprinkle
+<pb n="4" facs="tcp:205491:3"/> them with Water, or sign them with the sign of the Cross, or God-fathers or God-mothe<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s.</p>
+            <p>And <hi>Lot</hi>'s two Daughters bare two Sons, and they called one of them <hi>Moab,</hi> and the other <hi>Ben-ammj.</hi> But here is no mention of a Priest sprinkling of them, nor Gossips, nor God-fathers, nor God-mothers, nor signing them with the sign of the Cross, <hi>Gen.</hi> 19.37, 38.</p>
+            <p>And <hi>Jacob</hi> had twelve Sons and a Daughter, and you may see how <hi>Leah</hi> and <hi>Rachel</hi> gave Names to the most of them, <hi>Gen.</hi> 29, &amp; 30. Chapters, without a Priest sprinkling of them with Water, and without God-fathers and God-mothers, and Gossips, and Commothers, and Fonts, and signing them with the Sign of the Cross. Yet <hi>Jacob</hi> saw Christ, and pro<g ref="char:EOLhyphen"/>phesied of him, and said, <hi>The Scepter should not depart from</hi> Ju<g ref="char:EOLhyphen"/>dah, <hi>nor a Law-giver from between his Feet till</hi> Shiloh <hi>come.</hi>
+            </p>
+            <p>And <hi>Judah</hi> had Children, and his Wife called one <hi>Err,</hi> and another <hi>Onan,</hi> and another <hi>Shelah, Gen.</hi> 38. So you see how that sometimes the Wife named the Children, and sometimes the Man, without a Priest sprinkling of them with Water, or Fonts, or God-fathers and God-mothers, or signing them, &amp;c.</p>
+            <p>And <hi>Joseph</hi> had two Sons in <hi>Egypt,</hi> and he called one <hi>Ma<g ref="char:EOLhyphen"/>nasseh,</hi> and the other <hi>Ephraim,</hi> Gen. 41. But no sprinkling with Water by a Priest, nor God-fathers nor God-mothers, nor Gossips, nor Commothers, nor Fonts, nor signing them with the sign of the Cross.</p>
+            <p>And <hi>Pharaoh</hi>'s Daughter she call'd the <hi>Hebrew</hi> Child <hi>Moses,</hi> because she drew him out of the Water: Here was no Priest to sprinkle him, nor God-fathers nor God-mothers, nor sign<g ref="char:EOLhyphen"/>ing him with the sign of the Cross, though she was an <hi>Ae<g ref="char:EOLhyphen"/>gyptian.</hi>
+            </p>
+            <p>And <hi>Moses</hi> had a Son, and he called his Name <hi>Gershon;</hi> here was no Priest to sprinkle him, nor God-fathers nor God-mo<g ref="char:EOLhyphen"/>thers, nor signing, &amp;c. <hi>Exod.</hi> 2.</p>
+            <p>And all the time that the Children of <hi>Israel</hi> were in <hi>Ae<g ref="char:EOLhyphen"/>gypt,</hi> and all the time they were in the Wilderness, and all the time until Christ, you never read that any Priest
+<pb facs="tcp:205491:3"/> sprinkled their Children with Water, o<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, or God-fathers or God-mothers, and Gossips or Commothers, or that they signed them with the sign of the Cross.</p>
+            <p>And <hi>Manoah</hi>'s Wife bare a Son, and called his Name <hi>Samp<g ref="char:EOLhyphen"/>son,</hi> Judg. 13.</p>
+            <p>And <hi>Hannah</hi> bare a Son, and called his Name <hi>Samuel, be<g ref="char:EOLhyphen"/>cause,</hi> said she, <hi>I have asked him of the Lord,</hi> 1 Sam. 1.</p>
+            <p>And <hi>Phineas</hi>'s Wife bare a Son, and she called his Name <hi>Ichabod,</hi> saying, <hi>The Glory of the Lord is departed from</hi> Israel, 1 <hi>Sam.</hi> 4.</p>
+            <p>And <hi>Ruth</hi> bare a Son, and the Women her Neighbours gave him a Name, and called him <hi>Obed;</hi> and <hi>Obed</hi> begat <hi>Jess,</hi> and <hi>Jess</hi> begat <hi>David, Ruth</hi> 4. And you cannot prove by Scrip<g ref="char:EOLhyphen"/>ture, that any of all these had a Font and a Priest to sprinkle them with Water, or sign any of them with the sign of the Cross, or that they had Gossips or Commothers, or God-fathers or God-mothers, that did promise and vow, <hi>that they should forsake the Devil and all his Works.</hi>
+            </p>
+            <p>And <hi>Bath-sheba David</hi>'s Wife bare a Son, and he called his Name <hi>Solomon,</hi> and the Lord loved him, 2 <hi>Sam.</hi> 12.</p>
+            <p>And the Wife of <hi>Machir</hi> bare a Son, and she called his Name <hi>Peresh,</hi> 1 Chron. 7. And many others you may see in this Chapter, how they named them; without a Priest sprink<g ref="char:EOLhyphen"/>ling of them with Water, and without God fathers and God-mothers, &amp;c.</p>
+            <p>And the Mother of <hi>Jabez</hi> gave him the Name <hi>Jabez, be<g ref="char:EOLhyphen"/>cause,</hi> said she, <hi>I bare him with Sorrow,</hi> 1 Chron. 4. So here the Mother Named him without a Priest sprinkling of him, or God-fathers, or God-mothers, or Fonts, or Gossips.</p>
+            <p>And <hi>Hosea</hi> had Sons and a Daughter, and the Lord told him what he should call them, <hi>Hos.</hi> 1. But here is no mention of a Priest sprinkling them with Water, nor God-fathers, nor God-mothers, &amp;c.</p>
+            <p>And <hi>Isaiah</hi> went to the Prophetess, and she bare a Son, and the Lord said they should call his Name <hi>Mahershallallhash<g ref="char:EOLhyphen"/>baz;</hi> and before the Child should have knowledge to cry
+<pb facs="tcp:205491:4"/>
+               <hi>My Father and Mother,</hi> the Riches of <hi>Damascus</hi> and the Spoil of <hi>Israel</hi> should be taken away, <hi>Isa.</hi> 8. But here the Lord speaks nothing of a Priest sprinkling him with Water, nor of God-fathers and God-mothers, &amp;c.</p>
+            <p>And the Angel said to <hi>Zacharias, Thy Wife shall bear a Son, and thou shalt call his Name</hi> John, Luke 1. But the Angel saith nothing of a Priest to sprinkle him, nor God-fathers, nor God-mothers, &amp;c.</p>
+            <p>And the Angel said unto <hi>Mary, Thou shalt bring forth a Son, and shalt call his Name</hi> Jesus; <hi>for he shall save his People from their Sins. Behold a Virgin shall be with Child, and shall bring forth a Son, and they shall call his Name</hi> Emanuel, which being interpreted is <hi>God with us,</hi> Isa. 7. Mat. 1. But here the Lord and his Angel doth not say, that a Priest should sprinkle him at the Font, and sign him with the sign of the Cross, nor that they should have God-fathers and God-mothers, and they should promise and vow, that he should forsake the Devil and all his Works; neither do you read of any such things practised in the Apostles dayes.</p>
+            <p>And now you that say, <hi>The Scriptures are your Rule for your Faith, Doctrine and Practice;</hi> prove your Practice herein by Scripture, your sprinkling of Infants, and signing them with the sign of the Cross, or that they had God-fathers, or God-mo<g ref="char:EOLhyphen"/>thers, or Gossips, from <hi>Genesis</hi> to the <hi>Revelations.</hi> Make these things good by Scriptures, which you call an Ordinance of Christ; but if you cannot, then be not angry with us, that we follow not you in these things, which you cannot make good by Scripture: and acknowledge your Error, who say, that the Scriptures are your Rule for that which you cannot make good by Scripture: For we, like the noble <hi>Bereans,</hi> do search the Scriptures, and do find that your Practice and Doctrine here<g ref="char:EOLhyphen"/>in is neither according to the Old nor New Testament, and therefore we cannot follow you. But now do not say, that we deny the Baptism of Christ Jesus, into the Name of the Father, Son and Holy Ghost.</p>
+            <p>
+               <hi>There is one Lord, one Faith, one Baptism,</hi> which we own, as the Apostles and primitive <hi>Christians</hi> did, <hi>Ephes.</hi> 4.</p>
+            <pb facs="tcp:205491:4"/>
+            <p> And in <hi>Col.</hi> 2. <hi>For there must be a burying <gap reason="illegible" resp="#pdcc" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#pdcc" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tism, before there be a rising with Christ.</hi> And as saith the A<g ref="char:EOLhyphen"/>postle, <hi>So many of us as were baptized into Christ, were bapti<g ref="char:EOLhyphen"/>zed into his Death; therefore we are buryed with him by baptism into Death, that like as Christ was raised from the Dead by the Glory of the Father, even so we also should walk in Newness of Life: For if we have beeen planted together in the likeness of his Death, we shall be also in the likeness of his Resurrection,</hi> Rom. 6.</p>
+            <p>
+               <hi>For they that are Baptized into Christ, have put on Christ: For by one Spirit are we all Baptized into one Body, whether</hi> Jews <hi>or</hi> Gentiles, <hi>Bond or Free; and have been made all to drink into one Spirit by this one Baptism,</hi> 1 Cor. 12.</p>
+            <p>And this is the Baptism of Christ with his Spirit, Fire and Holy Ghost, &amp;c. which the Saints owned, and witnessed to Christ's Baptism, and saw the decreasing of <hi>John</hi>'s; and were not to touch nor taste of the Commandments, Doctrines or Ordinances of Men.</p>
+            <p>For Christ said unto the <hi>Jews, In Vain do they worship me, teaching for Doctrines the Commandments of Men,</hi> Mat. 15.9.</p>
+            <p>So see and examine, if this hath not been your own Condi<g ref="char:EOLhyphen"/>tion, like the <hi>Jews:</hi> For your several sorts of Crossings and Sprinklings, and Washings with outward Water, that is used in <hi>Christendom</hi> by the Priests, which they call <hi>Baptism,</hi> doth not bring their People into one Body, no<gap reason="illegible" resp="#pdcc" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to drink into one Spirit, as Christ's Baptism with his Spirit doth: Honour and Praise to God through Christ Jesus forever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>The 1st of the 9th Moneth, 1676.</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
